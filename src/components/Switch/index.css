@@ -1,0 +1,9 @@
+select {
+  width: 150px;
+  font-size: 18px;
+  margin-bottom: 30px;
+  background: none;
+  -webkit-appearance: none;
+  color: #fffcf9;
+  background-color: black;
+}

@@ -1,0 +1,16 @@
+.categorias {
+  display: flex;
+  max-width: 80%;
+  color: white;
+  margin-top: 30px;
+}
+
+.tag {
+  color: white;
+  background-color: black;
+}
+
+.tagSelected {
+  color: black;
+  background-color: red;
+}
